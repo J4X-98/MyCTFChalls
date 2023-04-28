@@ -1,0 +1,8 @@
+name: "ToTheMoon"
+display_name: "ToTheMoon"
+category: "smart-contract"
+description: "I finally deployed my first smart contract at 0x6da7b3C100B11Af334073ab58c654bB46aD46118 (Goerli). When people start giving me money I don't need to go to school anymore."
+points: 50
+flag: "KDCTF{G1v3_m3_Ur_m00n13s}"
+author:
+	name: J4X

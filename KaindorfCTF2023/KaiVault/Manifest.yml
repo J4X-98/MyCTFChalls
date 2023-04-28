@@ -1,0 +1,8 @@
+name: "KaiVault"
+display_name: "KaiVault"
+category: "smart-contract"
+description: "I implemented my first token. You even get some for free when you sign up. Connect via nc 46.101.194.78 42069"
+points: 300
+flag: "KDCTF{Th3_n4me_15_Tolk13n_n0T_T0keN}"
+author:
+	name: J4X

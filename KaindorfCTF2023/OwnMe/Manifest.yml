@@ -1,0 +1,8 @@
+name: "OwnMe"
+display_name: "OwnMe"
+category: "smart-contract"
+description: "I learned, that smart contracts even got functions, like one of them real programming thingies. Connect to the Challenge via nc 46.101.194.78 31337"
+points: 100
+flag: "KDCTF{1_0wN_s0m3tH1ng_oN_th3_BloCkCh4in}"
+author:
+	name: J4X

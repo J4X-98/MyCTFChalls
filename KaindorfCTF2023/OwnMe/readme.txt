@@ -1,0 +1,1 @@
+Basic Smart Contract, just need to run a function of it and become the owner to get the flag.

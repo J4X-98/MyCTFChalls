@@ -1,0 +1,1 @@
+Here it gets trickier, integer over/underflow to get enough money to get the NFT

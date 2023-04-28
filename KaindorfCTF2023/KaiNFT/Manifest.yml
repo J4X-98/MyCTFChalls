@@ -1,0 +1,8 @@
+name: "KaiNFT"
+display_name: "KaiNFT"
+category: "smart-contract"
+description: "I launched my first NFT collection. I am going to be filthy rich in a few days, that's why i quit my job. Connect to the Challenge via nc 46.101.194.78 31338"
+points: 500
+flag: "KDCTF{KaiNFTs_c0m1ng_N3xT_Y34r_t0_0pen53a}"
+author:
+	name: J4X
