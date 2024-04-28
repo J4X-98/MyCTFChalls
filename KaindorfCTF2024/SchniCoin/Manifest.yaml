@@ -1,0 +1,29 @@
+name: schnicoin
+display_name: "SchniCoin"
+category: "Smart Contract"
+flag: "KDCTF{4.0_GpA_1s_eZ}"
+author:
+    name: J4X
+description:
+    "Prof Schni has developed a new way to keep track of your attendance to class. You can get a single SchniCoin every time you attend class. Unfortunately this way you will not be able to skip school anymore if you want a good grade :("
+
+deployment:
+    ports: [1337]
+    uses_docker_compose_and_will_cause_trouble: true
+    web: false
+
+type: dynamic
+jeopardy:
+    initial: 550
+    decay: 50
+    minimum: 100
+    function: linear
+
+junior:
+    initial: 400
+    decay: 50
+    minimum: 100
+    function: linear
+
+build: false
+check: false
